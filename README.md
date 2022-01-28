@@ -15,7 +15,7 @@ You can use it as a standalone application or as a web application to access it 
 
 OraSystem has a large community ready to help you, free forums and [preferred partners ready to offer commercial support should you need it](https://partners.OraSystem.org)
 
-![ScreenShot](https://www.OraSystem.org/medias/OraSystem_screenshot1_1920x1080.jpg)
+![ScreenShot](https://www.OraSystem.org/medias/dolibar_screenshot1_1920x1080.jpg)
 
 ## LICENSE
 
